@@ -1,4 +1,4 @@
-# CapstoneTwo
+# Heart Disease Detection Model
 
 _This project is a Heart Disease Prediction Model using a Ridge Classifier. This project is created to help determine if a patient is likely to have heart disease based on the given features and make an easier decision for more extensive heart testing_
 
